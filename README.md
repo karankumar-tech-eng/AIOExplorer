@@ -8,18 +8,16 @@ AIOExplorer is a multi-chain blockchain explorer built to track wallet balances,
 https://aio-explorer.vercel.app
 
 ---
----
-
 ## Project Screenshots
 
-### Home Page
-![Home Page](screenshots/home-page.png)
+### Screenshot 1
+![Screenshot 1](screenshots/Screenshot%202026-04-24%20123118.png)
 
-### Wallet Details
-![Wallet Details](screenshots/wallet-details.png)
+### Screenshot 2
+![Screenshot 2](screenshots/Screenshot%202026-04-24%20123618.png)
 
-### Multi-Chain Support
-![Multi Chain](screenshots/multichain-support.png)
+### Screenshot 3
+![Screenshot 3](screenshots/Screenshot%202026-04-24%20123853.png)
 
 ## Features
 
